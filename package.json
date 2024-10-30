@@ -1,0 +1,15 @@
+{
+  "name": "poc_nightwatch",
+  "version": "1.0.0",
+  "description": "POC para avaliação do NightwatchJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thiago.andrade",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^130.0.1",
+    "nightwatch": "^3.8.1"
+  }
+}
