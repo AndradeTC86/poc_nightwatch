@@ -10,8 +10,8 @@ module.exports = {
     default: {      
       desiredCapabilities: {
         browserName : "chrome",
-        chromeOption:{
-          args: ["--no-sandbox", "--disable-gpu","--headless"]
+        chromeOptions:{
+          args: ["--no-sandbox", "--disable-gpu"]
         }
       },
     },
